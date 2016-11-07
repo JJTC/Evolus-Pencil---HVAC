@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 728.5 515.9" style="enable-background:new 0 0 728.5 515.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g id="Pipe">
+	<line class="st0" x1="167.2" y1="240.3" x2="266.7" y2="240.3"/>
+</g>
+<g id="Crossing_Pipe">
+	<g>
+		<line class="st0" x1="208.9" y1="190.5" x2="208.9" y2="224.1"/>
+		<path class="st0" d="M227.4,240c0-10.7-8.6-18-19.3-18"/>
+		<path class="st0" d="M227.4,238.6c0,10.7-8.6,19.3-19.3,19.3V256v33.5"/>
+	</g>
+</g>
+</svg>
