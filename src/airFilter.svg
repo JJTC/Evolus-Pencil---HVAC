@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 728.5 515.9" style="enable-background:new 0 0 728.5 515.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<g id="Pipe">
+		<line class="st0" x1="181" y1="197.2" x2="181" y2="216.6"/>
+	</g>
+	<g>
+		<line class="st1" x1="180.8" y1="219.3" x2="180.8" y2="235"/>
+		<line class="st1" x1="176.5" y1="219.8" x2="179.5" y2="237.4"/>
+		<line class="st1" x1="172.8" y1="219.8" x2="176.5" y2="237"/>
+		<line class="st1" x1="185.5" y1="219.8" x2="182.5" y2="237.4"/>
+		<line class="st1" x1="189.2" y1="219.8" x2="185.5" y2="237"/>
+	</g>
+	<polygon class="st2" points="175.7,241.9 186.2,241.9 193.1,216.6 168.9,216.6 168.8,216.6 	"/>
+</g>
+</svg>

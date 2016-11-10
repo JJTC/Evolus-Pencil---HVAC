@@ -7,16 +7,18 @@
 	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
-<circle class="st0" cx="209" cy="240.1" r="63.6"/>
-<g id="Layer_1_2_">
-	<g id="Layer_1_1_">
-		<g id="Pipe">
-			<line class="st1" x1="104.8" y1="240.1" x2="145.4" y2="240.1"/>
+<g>
+	<circle class="st0" cx="209" cy="240.1" r="63.6"/>
+	<g id="Layer_1_2_">
+		<g id="Layer_1_1_">
+			<g id="Pipe">
+				<line class="st1" x1="104.8" y1="240.1" x2="145.4" y2="240.1"/>
+			</g>
+			<line class="st1" x1="272.6" y1="240.1" x2="313.3" y2="240.1"/>
 		</g>
-		<line class="st1" x1="272.6" y1="240.1" x2="313.3" y2="240.1"/>
 	</g>
+	<path class="st2" d="M256.1,197.3l-85.7-7.8L256.1,197.3z"/>
+	<path class="st2" d="M256.1,282.9l-85.7,7.8L256.1,282.9z"/>
+	<polyline class="st2" points="235.5,240.1 168.5,240.1 168.5,263.6 168.5,216.6 	"/>
 </g>
-<path class="st2" d="M256.1,197.3l-85.7-7.8L256.1,197.3z"/>
-<path class="st2" d="M256.1,282.9l-85.7,7.8L256.1,282.9z"/>
-<polyline class="st2" points="235.5,240.1 168.5,240.1 168.5,263.6 168.5,216.6 "/>
 </svg>
