@@ -5,16 +5,14 @@
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st2{stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#0D0D0D;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <g>
-	<g>
-		<g id="Pipe_1_">
-			<line class="st0" x1="129" y1="293.3" x2="148.4" y2="293.3"/>
-		</g>
-		<line class="st0" x1="209" y1="293.3" x2="228.4" y2="293.3"/>
+	<g id="Pipe">
+		<line class="st0" x1="159.3" y1="240.1" x2="178.7" y2="240.1"/>
 	</g>
-	<polyline class="st1" points="148.4,313.2 148.4,273.3 209,313.2 209,273.3 	"/>
-	<circle class="st2" cx="148.4" cy="273.3" r="2.4"/>
+	<path class="st1" d="M178.7,255.3l30.3-15.1v-0.1l-30.3-15.2V255.3z"/>
+	<path class="st2" d="M209,240.1v0.1l30.3,15.1v-30.4L209,240.1z"/>
+	<line class="st0" x1="239.3" y1="240.1" x2="258.7" y2="240.1"/>
 </g>
 </svg>
