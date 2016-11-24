@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 728.5 515.9" style="enable-background:new 0 0 728.5 515.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#0D0D0D;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:18px;}
+</style>
+<g>
+	<g>
+		<g id="Pipe">
+			<line class="st0" x1="159.3" y1="240.1" x2="178.7" y2="240.1"/>
+		</g>
+		<path class="st1" d="M178.7,255.3l30.3-15.1v-0.1l-30.3-15.2V255.3z"/>
+		<path class="st2" d="M209,240.1v0.1l30.3,15.1v-30.4L209,240.1z"/>
+		<line class="st0" x1="239.3" y1="240.1" x2="258.7" y2="240.1"/>
+	</g>
+	<g>
+		<g id="Layer_1_4_">
+			<g id="Layer_2_1_">
+				<path class="st1" d="M208.9,240.1V218V240.1z"/>
+			</g>
+		</g>
+		<path class="st1" d="M224.1,202.8"/>
+		<path class="st1" d="M193.9,204.9c0.3,0,0.2,0,0.5,0C194,204.9,194.2,204.9,193.9,204.9c1,7.4,7.4,13.1,15,13.1s14-5.7,15-13.1
+			c-0.3,0-0.2,0-0.6,0c0.3,0,0.2,0,0.6,0"/>
+		<rect x="199.9" y="194.8" class="st3" width="22.1" height="19.9"/>
+		<text transform="matrix(1 0 0 1 202.8506 212.6207)" class="st4 st5">H</text>
+	</g>
+</g>
+</svg>

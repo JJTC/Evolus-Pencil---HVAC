@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 728.5 515.9" style="enable-background:new 0 0 728.5 515.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:9.125,4.5625;}
+</style>
+<g id="Layer_1_1_">
+	<g id="Pipe">
+		<line class="st0" x1="159.3" y1="240.1" x2="178.7" y2="240.1"/>
+	</g>
+	<line class="st0" x1="239.3" y1="240.1" x2="258.7" y2="240.1"/>
+</g>
+<line class="st1" x1="239.3" y1="224.9" x2="178.7" y2="224.9"/>
+<line class="st1" x1="178.7" y1="255.3" x2="239.3" y2="255.3"/>
+<line class="st1" x1="178.7" y1="224.9" x2="178.7" y2="255.3"/>
+<line class="st1" x1="239.3" y1="255.3" x2="239.3" y2="224.9"/>
+<g>
+	<g>
+		<g>
+			<line class="st2" x1="209" y1="225" x2="209" y2="231"/>
+			<line class="st3" x1="209" y1="235.6" x2="209" y2="247"/>
+			<line class="st2" x1="209" y1="249.3" x2="209" y2="255.3"/>
+		</g>
+	</g>
+</g>
+</svg>

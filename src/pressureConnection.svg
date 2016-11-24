@@ -4,15 +4,21 @@
 	 viewBox="0 0 728.5 515.9" style="enable-background:new 0 0 728.5 515.9;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st1{stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 </style>
 <g>
-	<g id="Pipe">
-		<line class="st0" x1="159.3" y1="240.1" x2="258.7" y2="240.1"/>
+	<g id="Layer_1_1_">
+		<g id="Pipe">
+			<line class="st0" x1="157.3" y1="240.1" x2="207.7" y2="240.1"/>
+		</g>
+	</g>
+	<path class="st1" d="M178.7,224.9"/>
+	<g>
+		<polyline class="st2" points="193.9,255.2 209,240.1 209,240.1 193.9,225 		"/>
 	</g>
 	<g>
-		<line class="st0" x1="209" y1="190.5" x2="209" y2="289.6"/>
+		<polyline class="st2" points="224.1,255.2 209,240.1 209,240.1 224.1,225 		"/>
 	</g>
-	<circle class="st1" cx="209" cy="240.1" r="7.1"/>
 </g>
 </svg>
